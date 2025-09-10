@@ -1,0 +1,5 @@
+Scramble Moves:
+F R D' F' D D' D
+
+Solution Moves:
+D' F D R' F'
